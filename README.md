@@ -23,7 +23,7 @@ Este projeto é uma Single Page Aplication (SPA) que tem como objetivo exibir po
 Para criação do filtro de tipos, resolvi fazer um contexto contendo os tipos, suas respectivas cores e números de identificação, além das funções que são utilizadas em mais de um elemento para atribuir essas características nas propriedades dos elementos.
 
 # Visualisando a página do projeto no seu computador
-Site do projeto online: [projeto-pokedex-react.vercel.app](projeto-pokedex-react.vercel.app)
+Site do projeto online: [projeto-pokedex-react.vercel.app](https://projeto-pokedex-react-cmup51drg-pedro-lucas-projects-fa69241a.vercel.app)
 
 Para rodar o projeto no seu computador siga o passo a passo utilizando terminal: 
 
