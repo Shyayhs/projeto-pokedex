@@ -22,4 +22,25 @@ Este projeto é uma Single Page Aplication (SPA) que tem como objetivo exibir po
 
 Para criação do filtro de tipos, resolvi fazer um contexto contendo os tipos, suas respectivas cores e números de identificação, além das funções que são utilizadas em mais de um elemento para atribuir essas características nas propriedades dos elementos.
 
-# Passo a passo para executar o projeto no seu computador
+# Visualisando a página do projeto no seu computador
+Site do projeto online: [projeto-pokedex-react.vercel.app](projeto-pokedex-react.vercel.app)
+
+Para rodar o projeto no seu computador siga o passo a passo utilizando terminal: 
+
+- Crie um clone na pasta que deseja:
+  ```
+  git clone https://github.com/Shyayhs/projeto-pokedex.git
+  ```
+- Selecione a pasta clonada:
+  ```
+  cd projeto-pokedex
+  ```
+- Inicialize npm e faça a instalação das dependências:
+  ```
+  npm install
+  ```
+- Inicialize o servidor de desenvolvimento:
+  ```
+  npm run dev
+  ```
+- No terminal vai ser exibido um endereço clicável que te redirecionará para a página
